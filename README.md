@@ -16,18 +16,18 @@ En caso de querer hacer modificaciones más complejas del sitio, es conveniente 
 Para ello es necesario tener instalado Bundler (similar en funcionalidad a `npm` para JavaScript), que se instala utilizando `rubygems` (administrador de paquetes de Ruby).
 
 ``` shell
-$ gem install bundler
+gem install bundler
 ```
 
 Posteriormente es necesario instalar todas las dependencias de la página.
 
 ``` shell
-$ bundle install
+bundle install
 ```
 
 Finalmente, se puede hacer un despliegue local (por defecto a la dirección local `http://127.0.0.1:4000/`).
 
 ``` shell
-$ bundle exec jekyll serve --livereload
+bundle exec jekyll serve --livereload
 ```
 
