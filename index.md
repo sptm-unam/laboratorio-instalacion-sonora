@@ -13,6 +13,9 @@ forma parte del Seminario Permanente de Tecnología Musical, espacio
 autogestionado por la comunidad de estudiantes y docentes del Posgrado en
 Tecnología Musical de la UNAM.
 
+> IMPORTANTE: Para tener una constancia de participación emitida por el Programa de Maestría y Doctorado en Música, es necesario asistir por lo menos al 80% de las sesiones.
+> La constancia esta disponible para cualquier participante que cumpla este criterio (independientemente de su estatus como estudiante).
+
 ## Sesiones
 
 1. [Bienvenida e introducción](./sesiones/1.html)
