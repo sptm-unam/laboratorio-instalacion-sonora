@@ -1,6 +1,6 @@
 # Laboratorio de Instalación Sonora
 
-Coordinación: Lucía Rodríguez, José Orozco y Homero Guerrero
+Coordinan: Lucía Rodríguez, José Orozco y Homero Guerrero
 
 Laboratorio teórico-práctico que gira alrededor de la instalación sonora como
 medio de investigación y de expresión artística. A lo largo del semestre
