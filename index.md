@@ -19,3 +19,4 @@ Tecnología Musical de la UNAM.
 ## Sesiones
 
 1. [Bienvenida e introducción](./sesiones/1.html)
+2. [Construcción de un marco común](./sesiones/2.html)
