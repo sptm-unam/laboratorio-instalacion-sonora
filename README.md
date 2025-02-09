@@ -1,22 +1,37 @@
-# Laboratorio de Instalación Sonora
+# Laboratorio de Instalación Sonora [^sptm]
 
-Esta es el sitio web del «Laboratorio de Instalación Sonora», instancia del **Seminario Permanente de Tecnología Musical** del semestre 2025-2 de la UNAM. Coordinado por Lucía Rodríguez, Homero Guerrero y José Orozco.
+Coordinado por Lucía Rodríguez, Homero Guerrero y José Orozco.
 
-A continuación encontrarás instrucciones para contribuir a este repositorio.
+Este repositorio despliega el sitio web del laboratorio utilizando
+[Github Pages](https://docs.github.com/es/pages).
+
+[^sptm]: Instancia del Seminario Permanente de Tecnología Musical (SPTM) del semestre 2025-2 de la UNAM.
+
+El objetivo de este sitio es documentar el proceso, trabajo y reflexiones de este
+seminario.
+
+La invitación a participar en este ejercicio de documentación está abierto a
+todxs lxs particpantes.
+A continuación se detallan las instrucciones para contribuir.
 
 ## Modificar o añadir contenido
 
 Necesitarás una cuenta de Github. Créala seleccionando el botón correspondiente
-en la parte superior de esta página.
+en la parte superior de esta página. Además, solicita acceso de escritura
+enviando tu nombre de usuarix a
+[Xavier Góngora](mailto:xavier.gongora@comunidad.unam.mx).
+Procederemos a añadirte a la organización del
+[SPTM en Github](https://github.com/sptm-unam).
 
 La forma más fácil de contribuir al contenido de este sitio es modificándolo
 directamente _in situ_. Para ello, selecciona el archivo que quieras modificar
 y pica el botón con el lápiz (`Edit this file`).
+Se abrirá un editor de texto para que añadas o modifiques el archivo seleccionado.
 
 El contenido puede ser formateado utilizando la sintaxis de
 [Github Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-**Enfócate en el contenido textual**; posteriormente otrx usuarix o unx
-administradorx puede corregir o añadir el formato.
+Sin embargo, **enfócate en el contenido textual**; posteriormente otrx usuarix
+puede corregir o añadir el formato.
 
 Una vez que hayas terminado de editar, selecciona el botón `Commit changes...`
 y añade un comentario corto y explicativo de las modificaciones que hiciste
@@ -27,17 +42,26 @@ Deja seleccionado `Commit directly to the main branch` y finalmente pica
 `Commit changes` para que los cambios se reflejen en la página web. Puedes
 seleccionar la opción `Create a new branch for this commit and start a pull request`
 si quieres que tus modificaciones sean revisadas por lxs administradorxs antes de
-integrarse a la página.
+integrarse a la página.[^acceso]
+
+[^acceso]: Si no tienes acceso de escritura en el repositorio, no apareceran estas
+opciones y en lugar de `Commit changes` aparecerá el botón `Propose changes`.
+Puedes utilizar está opción sin problema. Esta crea un _fork_ (una copia de
+los archivos y su historia) en tu cuenta de Github automáticamente, desde la
+que se proponen los cambios en un _pull-request_ o PR. Le mecánica exacta de
+este proceso está más allá del alcance de estas instrucciones; basta saber que
+los PR permiten que cualquiera pueda colaborar con un proyecto de código abierto.
+
 
 ## Crear nuevas páginas
 
 Para crear una nueva página en el sitio:
 
 1. Crea un archivo con extensión `.md` en este repositorio, por ejemplo `pagina.md`.
-  + Cerca de uno de los bordes inferiores del tope de la página pica el menú `Add file`
-    y selecciona una de las opciones (`Create new file` o `Upload file`).
+Cerca de uno de los bordes inferiores del tope de la página pica el menú `Add file`
+y selecciona una de las opciones (`Create new file` o `Upload file`).
 1. Las páginas correspondientes a las sesiones deben ubicarse en el directorio `sesiones`
-y tener por nombre el número de sesión (por ejemplo `1.md`).
+  y tener por nombre el número de sesión (por ejemplo `1.md`).
 1. El contenido de estos archivo puede ser formateado utilizando la sintaxis de
 [Github Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 1. Para poder navegar a la nueva página se debe incluir una liga en el archivo `index.md` utilizando la siguiente sintaxis:
@@ -51,8 +75,8 @@ o modificar una plantilla), es conveniente hacer un despliegue local de la pági
 para probar los cambios antes de enviarlos al repositorio remoto.
 
 > [!WARNING]
-> Todo _commit_ a la rama _main_ del repositorio remoto (en Github)
-> inicia un despliegue del sitio web.
+> Cada _commit_ a la rama _main_ del repositorio (en Github)
+> actualiza el sitio web automáticamente.
 
 Primero instala `bundler` (similar en funcionalidad a `npm` para JavaScript),
 utilizando `rubygems` (administrador de paquetes de Ruby).[^ruby]
