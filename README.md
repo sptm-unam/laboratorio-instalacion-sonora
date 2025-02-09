@@ -62,7 +62,7 @@ Cerca de uno de los bordes inferiores del tope de la página pica el menú `Add 
 y selecciona una de las opciones (`Create new file` o `Upload file`).
 1. Las páginas correspondientes a las sesiones deben ubicarse en el directorio `sesiones`
   y tener por nombre el número de sesión (por ejemplo `1.md`).
-1. El contenido de estos archivo puede ser formateado utilizando la sintaxis de
+1. El contenido de estos archivos puede ser formateado utilizando la sintaxis de
 [Github Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 1. Para poder navegar a la nueva página se debe incluir una liga en el archivo `index.md` utilizando la siguiente sintaxis:
 `[Texto de la liga](./ruta/a/la/pagina.html)`.
