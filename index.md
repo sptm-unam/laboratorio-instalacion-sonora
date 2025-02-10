@@ -23,14 +23,14 @@ Tecnología Musical de la UNAM.
 > Este aplica a igualmente a las sesiones presenciales o virtuales, intra o extra-muros, de este seminario.
 >
 > Las **sesiones presenciales** excluyen la posibilidad de videoconferencia por la naturaleza extramuros de algunas actividades.
-> Se invita a todxs a asistir presencialmente a las **sesiones híbridas**.
+> Se invita a todxs a asistir presencialmente a las **sesiones híbridas**;
 > El propósito de la videoconferencia es incluir a lxs participantes que viven fuera de la CDMX.
 > El salón del LIMME estará disponible en el horario de 17:00 a 20:00 para quién quiera conectarse desde ahí a las **sesiones en línea**.
 
 
 ## Sesiones
 
-| Número                                                 | Fecha      | Modalidad  |
+| Referencia                                             | Fecha      | Modalidad  |
 |--------------------------------------------------------|------------|------------|
 | 1. [Bienvenida e introducción](./sesiones/1.html)      | 30 Enero   | Híbrida    |
 | 2. [Construcción de un marco común](./sesiones/2.html) | 6 Febrero  | En línea   |
@@ -44,7 +44,7 @@ Tecnología Musical de la UNAM.
 Puedes contribuir con notas, referencias y reflexiones a la documentación de
 este seminario agregando o modificando el contenido del
 [repositorio](https://github.com/sptm-unam/laboratorio-instalacion-sonora),
-donde encontrarás las instrucciones para hacerlo.
+(donde encontrarás instrucciones detalladas para hacerlo).
 
 _Tu palabra escrita ayuda a construir el discurso colectivo del SPTM._
 
