@@ -46,7 +46,7 @@ este seminario agregando o modificando el contenido del
 [repositorio](https://github.com/sptm-unam/laboratorio-instalacion-sonora),
 (donde encontrarás instrucciones detalladas para hacerlo).
 
-_Tu palabra escrita ayuda a construir el discurso colectivo del SPTM._
+_Tu palabra ayuda a construir el discurso colectivo del SPTM._
 
 Sólo es necesario crear una cuenta en [Github](https://github.com) y,
 opcionalmente, solicitar acceso de edición escribiendo un correo a
