@@ -26,16 +26,17 @@ Tecnología Musical de la UNAM.
 1. [Bienvenida e introducción](./sesiones/1.html)
 2. [Construcción de un marco común](./sesiones/2.html)
 
-## Documentación
+## Contribuir
 
-Puedes participar en los esfuerzos de documentación de este seminario ingresando
-al [repositorio](https://github.com/sptm-unam/laboratorio-instalacion-sonora)
-donde encontrarás instrucciones detalladas para crear y modificar páginas en
-este sitio.
+Puedes contribuir con notas, referencias y reflexiones a la documentación de
+este seminario agregando o modificando el contenido del
+[repositorio](https://github.com/sptm-unam/laboratorio-instalacion-sonora),
+donde encontrarás las instrucciones para hacerlo.
 
 _Tu palabra escrita ayuda a construir el discurso colectivo del SPTM._
 
-Sólo es necesario crear una cuenta en [Github](https://github.com) y solicitar
-acceso de edición a [Xavier Góngora](mailto:xavier.gongora@comunidad.unam.mx)
+Sólo es necesario crear una cuenta en [Github](https://github.com) y,
+opcionalmente, solicitar acceso de edición escribiendo un correo a
+[Xavier Góngora](mailto:xavier.gongora@comunidad.unam.mx)
 indicando tu nombre de usuario. ¡Esta cuenta te permitirá colaborar con este y
 otros proyectos de software libre y de código abierto de forma muy sencilla!
