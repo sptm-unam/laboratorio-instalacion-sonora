@@ -5,7 +5,8 @@ Coordinado por Lucía Rodríguez, Homero Guerrero y José Orozco.
 Este repositorio despliega el sitio web del laboratorio utilizando
 [Github Pages](https://docs.github.com/es/pages).
 
-[^sptm]: Instancia del Seminario Permanente de Tecnología Musical (SPTM) del semestre 2025-2 de la UNAM.
+[^sptm]: Instancia del Seminario Permanente de Tecnología Musical (SPTM) del
+semestre 2025-2 de la UNAM.
 
 El objetivo de este sitio es documentar el proceso, trabajo y reflexiones de este
 seminario.
@@ -26,7 +27,13 @@ Procederemos a añadirte a la organización del
 La forma más fácil de contribuir al contenido de este sitio es modificándolo
 directamente _in situ_. Para ello, selecciona el archivo que quieras modificar
 y pica el botón con el lápiz (`Edit this file`).
-Se abrirá un editor de texto para que añadas o modifiques el archivo seleccionado.
+Se abrirá un editor de texto para que añadas o modifiques el archivo
+seleccionado.[^git]
+
+[^git]: Para saber más, consulta las referencias sobre el sistema de control
+de versiónes `git` que tenemos en
+[este](https://github.com/sptm-unam/sptm-docs/blob/main/git_tutorial.md)
+repositorio.
 
 El contenido puede ser formateado utilizando la sintaxis de
 [Github Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
