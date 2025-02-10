@@ -27,7 +27,6 @@ Tecnología Musical de la UNAM.
 > El propósito de la videoconferencia es incluir a lxs participantes que viven fuera de la CDMX.
 > El salón del LIMME estará disponible en el horario de 17:00 a 20:00 para quién quiera conectarse desde ahí a las **sesiones en línea**.
 
-
 ## Sesiones
 
 | Referencia                                             | Fecha      | Modalidad  |
@@ -35,7 +34,21 @@ Tecnología Musical de la UNAM.
 | 1. [Bienvenida e introducción](./sesiones/1.html)      | 30 Enero   | Híbrida    |
 | 2. [Construcción de un marco común](./sesiones/2.html) | 6 Febrero  | En línea   |
 | 3. Traer una referencia o idea para proyecto           | 13 Febrero | En línea   |
-| 4. Visita a taller                                     | 20 Febrero | Presencial |
+| 4. Salida a taller / Laboratorio de materiales         | 20 Febrero | Presencial |
+| 5. Visita a estudio / expo                             | 27 Febrero | Presencial |
+| 6. Sesión teórica                                      | 6 Marzo    | En línea   |
+| 7. Taller de proyectos                                 | 13 Marzo   | Híbrida    |
+| 8. Salida a estudio /expo                              | 20 Marzo   | Presencial |
+| 9. Sesión teórica                                      | 27 Marzo   | En línea   |
+| 10. Laboratorio de materiales                          | 3 Abril    | Presencial |
+| 11. Revisión de proyectos                              | 10 Abril   | En linea   |
+| SEMANA SANTA                                           | 17 Abril   | NA         |
+| 12. Salida / visita a estudio u expo                   | 24 Abril   | Presencial |
+| ASUETO                                                 | 1 Mayo     | NA         |
+| 13. Sesión teórica                                     | 8 Mayo     | En línea   |
+| ASUETO                                                 | 15 Mayo    | NA         |
+| 14. Laboratorio de materiales                          | 22 Mayo    | Presencial |
+| 15. Cierre                                             | 29 Mayo    | Híbrido    |
 
 [Bibliografía](./bibliografia.html)
 
