@@ -29,7 +29,7 @@ Tecnología Musical de la UNAM.
 
 ## Sesiones
 
-| Referencia                                             | Fecha      | Modalidad  |
+| Notas                                             | Fecha      | Modalidad  |
 |--------------------------------------------------------|------------|------------|
 | 1. [Bienvenida e introducción](./sesiones/1.html)      | 30 Enero   | Híbrida    |
 | 2. [Construcción de un marco común](./sesiones/2.html) | 6 Febrero  | En línea   |
