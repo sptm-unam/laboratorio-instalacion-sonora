@@ -55,8 +55,8 @@ Tecnología Musical de la UNAM.
 ## Contribuir
 
 Puedes contribuir con notas, referencias y reflexiones a la documentación de
-este seminario agregando o modificando el contenido del
-[repositorio](https://github.com/sptm-unam/laboratorio-instalacion-sonora),
+este seminario agregando o modificando el contenido de este
+[repositorio](https://github.com/sptm-unam/laboratorio-instalacion-sonora)
 (donde encontrarás instrucciones detalladas para hacerlo).
 
 _Tu palabra ayuda a construir el discurso colectivo del SPTM._
