@@ -11,8 +11,8 @@ semestre 2025-2 de la UNAM.
 El objetivo de este sitio es documentar el proceso, trabajo y reflexiones de este
 seminario.
 
-La invitación a participar en este ejercicio de documentación está abierto a
-todxs lxs particpantes.
+Invitamos a todxs lxs particpantes del laboratorio a participar en este ejercicio
+de documentación, reflexión y memoria.
 A continuación se detallan las instrucciones para contribuir.
 
 ## Modificar o añadir contenido
