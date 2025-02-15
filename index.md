@@ -34,7 +34,7 @@ Tecnología Musical de la UNAM.
 | 1. [Bienvenida e introducción](./sesiones/1.html)      | 30 Enero   | Híbrida    |
 | 2. [Construcción de un marco común](./sesiones/2.html) | 6 Febrero  | En línea   |
 | 3. [Traer una referencia para proyecto](./sesiones/3.html)    | 13 Febrero | En línea   |
-| 4. Salida a taller / Laboratorio de materiales         | 20 Febrero | Presencial |
+| 4. [Salida a taller](./sesiones/4.html)         | 20 Febrero | Presencial |
 | 5. Visita a estudio / expo                             | 27 Febrero | Presencial |
 | 6. Sesión teórica                                      | 6 Marzo    | En línea   |
 | 7. Taller de proyectos                                 | 13 Marzo   | Híbrida    |
