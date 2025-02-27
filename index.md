@@ -35,7 +35,7 @@ Tecnología Musical de la UNAM.
 | 2. [Construcción de un marco común](./sesiones/2.html) | 6 Febrero  | En línea   |
 | 3. [Ideas para proyectos](./sesiones/3.html)           | 13 Febrero | En línea   |
 | 4. [Taller de materiales (yeso)](./sesiones/4.html)    | 20 Febrero | Presencial |
-| 5. Visita a estudio / expo                             | 27 Febrero | Presencial |
+| 5. [Coordinación general](./sesiones/5.html)           | 27 Febrero | En línea   |
 | 6. Sesión teórica                                      | 6 Marzo    | En línea   |
 | 7. Taller de proyectos                                 | 13 Marzo   | Híbrida    |
 | 8. Salida a estudio /expo                              | 20 Marzo   | Presencial |
