@@ -36,18 +36,18 @@ Tecnología Musical de la UNAM.
 | 3. [Ideas para proyectos](./sesiones/3.html)            | 13 Febrero | En línea   |
 | 4. [Taller de materiales (cerámica)](./sesiones/4.html) | 20 Febrero | Presencial |
 | 5. [Coordinación general](./sesiones/5.html)            | 27 Febrero | En línea   |
-| 6. Sesión teórica                                       | 6 Marzo    | En línea   |
-| 7. Taller de proyectos                                  | 13 Marzo   | Híbrida    |
-| 8. Salida a estudio /expo                               | 20 Marzo   | Presencial |
-| 9. Sesión teórica                                       | 27 Marzo   | En línea   |
-| 10. Laboratorio de materiales                           | 3 Abril    | Presencial |
-| 11. Revisión de proyectos                               | 10 Abril   | En linea   |
+| 6. [Taller de análisis de audio](./sesiones/6.md)       | 6 Marzo    | Presencial |
+| 7. Taller                                               | 13 Marzo   | Presencial |
+| 8. Taller                                               | 20 Marzo   | Presencial |
+| 9. Taller                                               | 27 Marzo   | Presencial |
+| 10. Taller                                              | 3 Abril    | Presencial |
+| 11. Taller                                              | 10 Abril   | Presencial |
 | SEMANA SANTA                                            | 17 Abril   | NA         |
-| 12. Salida / visita a estudio u expo                    | 24 Abril   | Presencial |
+| 12. Taller                                              | 24 Abril   | Presencial |
 | ASUETO                                                  | 1 Mayo     | NA         |
-| 13. Sesión teórica                                      | 8 Mayo     | En línea   |
+| 13. Por definir                                         | 8 Mayo     | En línea   |
 | ASUETO                                                  | 15 Mayo    | NA         |
-| 14. Laboratorio de materiales                           | 22 Mayo    | Presencial |
+| 14. Por definir                                         | 22 Mayo    | Presencial |
 | 15. Cierre                                              | 29 Mayo    | Híbrido    |
 
 [Bibliografía](./bibliografia.html)
