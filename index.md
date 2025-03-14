@@ -29,26 +29,26 @@ Tecnología Musical de la UNAM.
 
 ## Sesiones
 
-| Notas                                                   | Fecha      | Modalidad  |
-|---------------------------------------------------------|------------|------------|
-| 1. [Bienvenida e introducción](./sesiones/1.html)       | 30 Enero   | Híbrida    |
-| 2. [Construcción de un marco común](./sesiones/2.html)  | 6 Febrero  | En línea   |
-| 3. [Ideas para proyectos](./sesiones/3.html)            | 13 Febrero | En línea   |
-| 4. [Taller de materiales (cerámica)](./sesiones/4.html) | 20 Febrero | Presencial |
-| 5. [Coordinación general](./sesiones/5.html)            | 27 Febrero | En línea   |
-| 6. [Taller de análisis de audio](./sesiones/6.md)       | 6 Marzo    | Presencial |
-| 7. Taller                                               | 13 Marzo   | Presencial |
-| 8. Taller                                               | 20 Marzo   | Presencial |
-| 9. Taller                                               | 27 Marzo   | Presencial |
-| 10. Taller                                              | 3 Abril    | Presencial |
-| 11. Taller                                              | 10 Abril   | Presencial |
-| SEMANA SANTA                                            | 17 Abril   | NA         |
-| 12. Taller                                              | 24 Abril   | Presencial |
-| ASUETO                                                  | 1 Mayo     | NA         |
-| 13. Por definir                                         | 8 Mayo     | En línea   |
-| ASUETO                                                  | 15 Mayo    | NA         |
-| 14. Por definir                                         | 22 Mayo    | Presencial |
-| 15. Cierre                                              | 29 Mayo    | Híbrido    |
+| Notas                                                                        | Fecha      | Modalidad  |
+|------------------------------------------------------------------------------|------------|------------|
+| 1.  [Bienvenida e introducción](./sesiones/1.html)                           | 30 Enero   | Híbrida    |
+| 2.  [Construcción de un marco común](./sesiones/2.html)                      | 6 Febrero  | En línea   |
+| 3.  [Ideas para proyectos](./sesiones/3.html)                                | 13 Febrero | En línea   |
+| 4.  [Laboratorio de materiales (cerámica)](./sesiones/4.html)                | 20 Febrero | Presencial |
+| 5.  [Coordinación general](./sesiones/5.html)                                | 27 Febrero | En línea   |
+| 6.  [Laboratorio de materiales (audio)](./sesiones/6.md)                     | 6 Marzo    | Presencial |
+| 7.  [Laboratorio de materiales (automatización y sensores)](./sesiones/7.md) | 13 Marzo   | Presencial |
+| 8.  [Laboratorio de materiales (cintas y circuitos)]()                       | 20 Marzo   | Presencial |
+| 9.  [Laboratorio de materiales (biomateriales y código)]()                   | 27 Marzo   | Presencial |
+| 10. [Laboratorio de materiales (laudería )]()                                | 3 Abril    | Presencial |
+| 11. [Laboratorio de materiales (acúsmatica)]()                               | 10 Abril   | Presencial |
+| SEMANA SANTA                                                                 | 17 Abril   | NA         |
+| 12. Taller                                                                   | 24 Abril   | Presencial |
+| ASUETO                                                                       | 1 Mayo     | NA         |
+| 13. Por definir                                                              | 8 Mayo     | En línea   |
+| ASUETO                                                                       | 15 Mayo    | NA         |
+| 14. Por definir                                                              | 22 Mayo    | Presencial |
+| 15. Cierre                                                                   | 29 Mayo    | Híbrido    |
 
 [Bibliografía](./bibliografia.html)
 
