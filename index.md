@@ -43,12 +43,13 @@ Tecnología Musical de la UNAM.
 | 10. [Laboratorio de materiales (laudería )]()                                | 3 Abril    | Presencial |
 | 11. [Laboratorio de materiales (acúsmatica)]()                               | 10 Abril   | Presencial |
 | SEMANA SANTA                                                                 | 17 Abril   | NA         |
-| 12. Taller                                                                   | 24 Abril   | Presencial |
+| 12. Primeras pruebas (sesión técnica y conceptual)                           | 24 Abril   | En línea   |
 | ASUETO                                                                       | 1 Mayo     | NA         |
-| 13. Por definir                                                              | 8 Mayo     | En línea   |
+| 13. Desarrollo de la instalación                                             | 8 Mayo     | Presencial |
 | ASUETO                                                                       | 15 Mayo    | NA         |
-| 14. Por definir                                                              | 22 Mayo    | Presencial |
-| 15. Cierre                                                                   | 29 Mayo    | Híbrido    |
+| 14. Prototipo de instalación                                                 | 22 Mayo    | Presencial |
+| 15. Cierre                                                                   | 29 Mayo    | Híbrida    |
+| 16. Cierre                                                                   | 5 Junio    | Híbrida    |
 
 [Bibliografía](./bibliografia.html)
 
