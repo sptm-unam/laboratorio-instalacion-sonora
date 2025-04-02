@@ -15,6 +15,11 @@ Invitamos a todxs lxs particpantes del laboratorio a participar en este ejercici
 de documentación, reflexión y memoria.
 A continuación se detallan las instrucciones para contribuir.
 
+## TODO
+
++ [ ] Subir los videos a servicio externo (¿Archive.org?) para vincularlos. 
+Sesiones 6, 7 y 8 (laboratorios de materiales).
+
 ## Modificar o añadir contenido
 
 Necesitarás una cuenta de Github. Créala seleccionando el botón correspondiente

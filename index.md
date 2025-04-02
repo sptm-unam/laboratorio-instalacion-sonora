@@ -38,10 +38,10 @@ Tecnología Musical de la UNAM.
 | 5.  [Coordinación general](./sesiones/5.html)                                | 27 Febrero | En línea   |
 | 6.  [Laboratorio de materiales (audio)](./sesiones/6.md)                     | 6 Marzo    | Presencial |
 | 7.  [Laboratorio de materiales (automatización y sensores)](./sesiones/7.md) | 13 Marzo   | Presencial |
-| 8.  [Laboratorio de materiales (cintas y circuitos)]()                       | 20 Marzo   | Presencial |
-| 9.  [Laboratorio de materiales (biomateriales y código)]()                   | 27 Marzo   | Presencial |
-| 10. [Laboratorio de materiales (laudería )]()                                | 3 Abril    | Presencial |
-| 11. [Laboratorio de materiales (acúsmatica)]()                               | 10 Abril   | Presencial |
+| 8.  [Laboratorio de materiales (cintas y circuitos)](./sesiones/8.md)        | 20 Marzo   | Presencial |
+| 9.  [Taller de proyectos I](./sesiones/9.md)                                 | 27 Marzo   | Presencial |
+| 10. [Taller de proyectos II](./sesiones/10.md)                               | 3 Abril    | Presencial |
+| 11. [Taller de proyectos III](./sesiones/11.md)                              | 10 Abril   | Presencial |
 | SEMANA SANTA                                                                 | 17 Abril   | NA         |
 | 12. Primeras pruebas (sesión técnica y conceptual)                           | 24 Abril   | En línea   |
 | ASUETO                                                                       | 1 Mayo     | NA         |
