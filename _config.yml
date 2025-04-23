@@ -1,4 +1,5 @@
-remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: pages-themes/minimal@c27a30c
+#remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
 title: Laboratorio de Instalación Sonora SPTM
