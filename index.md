@@ -29,27 +29,27 @@ Tecnología Musical de la UNAM.
 
 ## Sesiones
 
-| Notas                                                                        | Fecha      | Modalidad  |
-|------------------------------------------------------------------------------|------------|------------|
-| 1.  [Bienvenida e introducción](./sesiones/1.html)                           | 30 Enero   | Híbrida    |
-| 2.  [Construcción de un marco común](./sesiones/2.html)                      | 6 Febrero  | En línea   |
-| 3.  [Ideas para proyectos](./sesiones/3.html)                                | 13 Febrero | En línea   |
-| 4.  [Laboratorio de materiales (cerámica)](./sesiones/4.html)                | 20 Febrero | Presencial |
-| 5.  [Coordinación general](./sesiones/5.html)                                | 27 Febrero | En línea   |
-| 6.  [Laboratorio de materiales (audio)](./sesiones/6.md)                     | 6 Marzo    | Presencial |
-| 7.  [Laboratorio de materiales (automatización y sensores)](./sesiones/7.md) | 13 Marzo   | Presencial |
-| 8.  [Laboratorio de materiales (cintas y circuitos)](./sesiones/8.md)        | 20 Marzo   | Presencial |
-| 9.  [Taller de proyectos I](./sesiones/9.md)                                 | 27 Marzo   | Presencial |
-| 10. [Taller de proyectos II](./sesiones/10.md)                               | 3 Abril    | Presencial |
-| 11. [Taller de proyectos III](./sesiones/11.md)                              | 10 Abril   | Presencial |
-| SEMANA SANTA                                                                 | 17 Abril   | NA         |
-| 12. Primeras pruebas (sesión técnica y conceptual)                           | 24 Abril   | En línea   |
-| ASUETO                                                                       | 1 Mayo     | NA         |
-| 13. Desarrollo de la instalación                                             | 8 Mayo     | Presencial |
-| ASUETO                                                                       | 15 Mayo    | NA         |
-| 14. Prototipo de instalación                                                 | 22 Mayo    | Presencial |
-| 15. Cierre                                                                   | 29 Mayo    | Híbrida    |
-| 16. Cierre                                                                   | 5 Junio    | Híbrida    |
+| Notas                                                                              | Fecha      | Modalidad  |
+|------------------------------------------------------------------------------------|------------|------------|
+| 1.  [Bienvenida e introducción](./sesiones/1.html)                                 | 30 Enero   | Híbrida    |
+| 2.  [Construcción de un marco común](./sesiones/2.html)                            | 6 Febrero  | En línea   |
+| 3.  [Ideas para proyectos](./sesiones/3.html)                                      | 13 Febrero | En línea   |
+| 4.  [Laboratorio de materiales (cerámica)](./sesiones/4.html)                      | 20 Febrero | Presencial |
+| 5.  [Coordinación general](./sesiones/5.html)                                      | 27 Febrero | En línea   |
+| 6.  [Laboratorio de materiales (audio)](./sesiones/6.md)                           | 6 Marzo    | Presencial |
+| 7.  [Laboratorio de materiales (automatización y sensores)](./sesiones/7.md)       | 13 Marzo   | Presencial |
+| 8.  [Laboratorio de materiales (cintas y circuitos)](./sesiones/8.md)              | 20 Marzo   | Presencial |
+| 9.  [Taller de proyectos I](./sesiones/9.md)                                       | 27 Marzo   | Presencial |
+| 10. [Taller de proyectos II](./sesiones/10.md)                                     | 3 Abril    | Presencial |
+| 11. [Taller de proyectos III](./sesiones/11.md)                                    | 10 Abril   | Presencial |
+| SEMANA SANTA                                                                       | 17 Abril   | NA         |
+| 12. Revisión de avances y prototipos                                               | 24 Abril   | Presencial |
+| 13. Módulo DfPlayer de Arduino para reproducir mp3                                 | 1 Mayo     | En línea   |
+| 14. [Circuitos, programación de Arduino y revisión de proyectos](./sesiones/14.md) | 8 Mayo     | Presencial |
+| 15. Tequio en Nadadoras                                                            | 15 Mayo    | Presencial |
+| 16. Prototipo de instalación                                                       | 22 Mayo    | Presencial |
+| 17. Cierre                                                                         | 29 Mayo    | Híbrida    |
+| 18. Comodín
 
 [Bibliografía](./bibliografia.html)
 
