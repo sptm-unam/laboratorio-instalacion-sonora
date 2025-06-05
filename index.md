@@ -48,8 +48,8 @@ Tecnología Musical de la UNAM.
 | 14. [Circuitos, programación de Arduino y revisión de proyectos](./sesiones/14.md) | 8 Mayo     | Presencial |
 | 15. Tequio en Nadadoras                                                            | 15 Mayo    | Presencial |
 | 16. Prototipo de instalación                                                       | 22 Mayo    | Presencial |
-| 17. Cierre                                                                         | 29 Mayo    | Híbrida    |
-| 18. Comodín
+| 17. [Presentación de Instalaciones](./sesiones/17.md)                              | 29 Mayo    | Híbrida    |
+| 18. Comodín                                                                        |            |            |
 
 [Bibliografía](./bibliografia.html)
 
