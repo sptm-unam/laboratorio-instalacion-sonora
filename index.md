@@ -46,7 +46,7 @@ Tecnología Musical de la UNAM.
 | 12. Revisión de avances y prototipos                                               | 24 Abril   | Presencial |
 | 13. Módulo DfPlayer de Arduino para reproducir mp3                                 | 1 Mayo     | En línea   |
 | 14. [Circuitos, programación de Arduino y revisión de proyectos](./sesiones/14.md) | 8 Mayo     | Presencial |
-| 15. Tequio en Nadadoras                                                            | 15 Mayo    | Presencial |
+| 15. [Tequio en Nadadoras](./sesiones/15.md)                                        | 15 Mayo    | Presencial |
 | 16. Prototipo de instalación                                                       | 22 Mayo    | Presencial |
 | 17. [Presentación de Instalaciones](./sesiones/17.md)                              | 29 Mayo    | Híbrida    |
 | 18. Comodín                                                                        |            |            |
