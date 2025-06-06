@@ -49,7 +49,7 @@ Tecnología Musical de la UNAM.
 | 15. [Tequio en Nadadoras](./sesiones/15.md)                                        | 15 Mayo    | Presencial |
 | 16. Prototipo de instalación                                                       | 22 Mayo    | Presencial |
 | 17. [Presentación de Instalaciones](./sesiones/17.md)                              | 29 Mayo    | Híbrida    |
-| 18. Cierre                                                                         |            |            |
+| 18. [Cierre](./sesiones/18.md)                                                     | 5 Junio    | En línea   |
 
 [Bibliografía](./bibliografia.html)
 
